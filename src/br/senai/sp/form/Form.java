@@ -22,7 +22,6 @@ public class Form {
         idade [1] = teclado.nextInt();
         System.out.println("A idade do Prof 1 e: " + idade[0] + " \n A idade do Prof 2 e " + idade[1]);
 
-
         int [] peso = new int[2];
         System.out.print("Qual é a peso do Prof 1: ");
         peso [0]= teclado.nextInt();
